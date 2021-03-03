@@ -1,7 +1,8 @@
-# new-template
+#Weather App
 
 ## Project setup
 ```
+Please first install the dependencies before running
 npm install
 ```
 
