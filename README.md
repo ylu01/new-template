@@ -1,5 +1,6 @@
 #Project Template
 
+this serves as the template for other projects
 ## Project setup
 ```
 Please first install the dependencies before running
